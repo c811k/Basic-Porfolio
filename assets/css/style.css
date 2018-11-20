@@ -46,6 +46,7 @@ li a {
     width: 960px;
     margin-left:auto;
     margin-right:auto;
+    overflow: auto;
     margin-top: 20px;
     padding: 20px;
     background-color: #ffffff;
